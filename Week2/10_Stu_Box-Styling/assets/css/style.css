@@ -64,6 +64,10 @@ footer {
 }
 
 /* TODO: Add properties to the cards to achieve the required look */
+
+/* <!-- Added border-radius of 50px to round out the cards edges;
+        Added box-shadow 10px from the bottom, 5px to the right, and made it dark gray;
+        Added the transform attribute to rotate the cards by 4 degrees. --> */
 .card {
   border-style: solid;
   border-width: 1px;
@@ -75,6 +79,7 @@ footer {
   transform: rotate(4deg);
 }
 
+/* <!-- Added a border-radius of 50 X 50 X 0 X 0pxs to smooth the edges of the banner for each card to look more like the mockup. --> */
 .card header {
   padding: 20px;
   border-radius: 50px 50px 0px 0px;

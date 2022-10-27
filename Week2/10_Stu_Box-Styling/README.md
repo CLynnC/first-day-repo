@@ -36,6 +36,8 @@ If you have completed the activity and want to further your knowledge, work thro
 
 * What are vendor prefixes, and how are they useful?
 
+    <!---- It seems to me that "vender prefixes" are just another way for vendor's who publish their own unique code, to sign their work. So that other's cannot steal it without knowing where it came from at the very least. ---!>
+
 Use [Google](https://www.google.com) or another search engine to research this.
 
 ---
