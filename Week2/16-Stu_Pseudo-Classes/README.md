@@ -41,6 +41,7 @@ You can use the following resource links for the content:
 If you have completed the activity and want to further your knowledge, work through the following challenge with your partner:
 
 * How can you force pseudo-class styles to display using Chrome DevTools?
+<!-- By clicking on the :hov button under the Styles section of the console, you can click on a force element state, such as :hover, :focus, :active, etc.. -->
 
 Use [Google](https://www.google.com) or another search engine to research this.
 
