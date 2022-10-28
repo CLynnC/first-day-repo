@@ -22,6 +22,7 @@ h2 {
   font-size: 250%;
 }
 
+/* Added the h3 element to the stylesheet here. And made the font size only slightly smaller than h2. */
 h3 {
   margin: 2% 0;
   font-size: 200%;
@@ -92,15 +93,17 @@ footer {
   color: #fff;
 }
 
+/* TODO: Add styles to display and hide the resource links */
+
+/* Added the ".resources" element here with specificity of "li" to include the list items below it. Then added the desired display types. */
 .resources li {
   display: none;
 }
 
+/* Added the :hover condition to this element. */
 .resources:hover li {
   display: block;
 }
-
-/* TODO: Add styles to display and hide the resource links */
 
 @media screen and (max-width: 768px) {
   header, main {
